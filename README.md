@@ -15,7 +15,9 @@ The dataset can be found in the course at this address. It's in Pickle format an
 To test the result please refer ipynb file attached and trained model.
 ## Results
 <img width="539" alt="image" src="https://github.com/Vishalkagade/Image_segmentation/assets/105672962/0a31fcc7-a78f-4b2b-a949-b145ef131ae1">
+
 The mask and original image is blended using cv2.bitwise_and technique.
+
 <img width="533" alt="image" src="https://github.com/Vishalkagade/Image_segmentation/assets/105672962/f49e17ba-e323-41af-9714-563f672319c1">
 
 ## improvements
