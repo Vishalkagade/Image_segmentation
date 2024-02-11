@@ -5,6 +5,8 @@ The aim of project is to predict drivable area in an image using Unet.
 ## Model
 <img width="480" alt="image" src="https://github.com/Vishalkagade/Image_segmentation/assets/105672962/48d1c9a4-dc8d-4b47-a605-a16e295eba53">
 
+Model can be downloaded from here https://drive.google.com/file/d/1QZbHF8O6NgpbDaN2fDe40h0L1J088pln/view?usp=sharing
+
 ## Dataset
 The dataset can be found in the course at this address. It's in Pickle format and contains 3,000 images and labels downloaded from Berkeley Deep Drive Dataset.Then this dataset is further increased to more 3000 images using data augmentation.
 
